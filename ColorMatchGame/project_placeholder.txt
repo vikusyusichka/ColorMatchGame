@@ -1,0 +1,10 @@
+// =============================================================
+// ColorMatchGame.xcodeproj/project.pbxproj
+// =============================================================
+// NOTE: This is a human-readable reference project file.
+// To get a working Xcode project, follow the manual setup
+// instructions in README.md — it takes under 2 minutes.
+// =============================================================
+
+// This file is intentionally left as a placeholder.
+// See README.md for step-by-step Xcode project creation.
